@@ -1,0 +1,20 @@
+List
+
+types of lists
+-ordered list
+-unordered list
+
+
+ordered list
+
+
+
+colors
+rgb
+hex
+name of the color
+
+hierachy
+
+family
+children
